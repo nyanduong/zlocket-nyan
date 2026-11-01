@@ -16,7 +16,7 @@ Source cũ phụ thuộc vào một dịch vụ cấp token bên thứ ba đã n
 sử dụng cấu hình API lỗi thời và thực hiện các tác vụ mạng không giới hạn. Do
 đó, phiên bản cũ không còn hoạt động đúng như trước.
 
-## Trạng thái hiện tại
+## Trạng thái hiện tại     
 
 Những phần đã hoàn thành:
 
