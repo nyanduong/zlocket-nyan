@@ -17,7 +17,7 @@ sử dụng cấu hình API lỗi thời và thực hiện các tác vụ mạng
 đó, phiên bản cũ không còn hoạt động đúng như trước.
 
 ## Trạng thái hiện tại     
-
+                  
 Những phần đã hoàn thành:
 
 - Tách riêng `AppCheckProvider`, `AuthAdapter` và `LocketApiAdapter`.         
