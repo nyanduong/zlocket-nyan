@@ -8,7 +8,7 @@
                                        
 ## Giới thiệu
 
-`zlocket-nyan` là phiên bản đang được refactor từ source zLocket cũ. Mục tiêu
+`zlocket-nyan` là phiên bản đang được refactor từ source zLocket cũ. Mục tiêu                                                                                                 
 hiện tại là xây dựng lại cấu trúc chương trình rõ ràng, có kiểm thử và có thể
 tích hợp với một môi trường staging được cấp quyền trong tương lai.
                                                                                                                                 
