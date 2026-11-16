@@ -15,7 +15,7 @@ tích hợp với một môi trường staging được cấp quyền trong tư�
 Source cũ phụ thuộc vào một dịch vụ cấp token bên thứ ba đã ngừng hoạt động,
 sử dụng cấu hình API lỗi thời và thực hiện các tác vụ mạng không giới hạn. Do
 đó, phiên bản cũ không còn hoạt động đúng như trước.
-
+                            
 ## Trạng thái hiện tại     
                                  
 Những phần đã hoàn thành:
