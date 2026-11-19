@@ -3,7 +3,7 @@
 > [!WARNING]
 > **Dự án vẫn đang trong quá trình hồi sinh và chưa hoàn thiện.** Phiên bản hiện
 > tại chỉ mô phỏng luồng hoạt động trong bộ nhớ, không kết nối tới Locket,
-> Firebase, dịch vụ token của Thanh Diệu hay bất kỳ máy chủ bên ngoài nào. Vì
+> Firebase, dịch vụ token của Thanh Diệu hay bất kỳ máy chủ bên ngoài nào. Vì                         
 > vậy, dự án **chưa thể sử dụng với tài khoản hoặc dịch vụ thật**.
                                        
 ## Giới thiệu
